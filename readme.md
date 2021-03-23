@@ -1,7 +1,7 @@
 ### ESP32Thing For AWSIoT
 ---
 
-ตัว repository นี้ผมสร้างขึ้นมาประกอบใช้กับบทความ *มาเล่น AWS IoT กันเถอะ EP.3 Rule engine & Rule action* สามารถ Download เพื่อนำศึกษาการทำงานได้
+ตัว repository นี้ผมสร้างขึ้นมาประกอบใช้กับบทความ [มาเล่น AWS IoT กันเถอะ EP.3 Rule engine & Rule action](https://iamteam.me) สามารถ Download เพื่อนำศึกษาการทำงานได้
 
 ![Overview](/images/Overview.jpg)
 
